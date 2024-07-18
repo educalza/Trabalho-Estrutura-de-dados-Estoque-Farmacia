@@ -18,6 +18,7 @@ REMOVER 1234
 INSERIR 5678 "Ibuprofeno" 23.50 1 8 2024
 CONSULTAR 5678
 FIM
+```
 
 
 ## Estrutura de Dados
