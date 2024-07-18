@@ -12,6 +12,7 @@ O programa testador deverá ser capaz de ler as instruções do arquivo texto de
 
 O formato do arquivo de entrada (`entrada.txt`) é exemplificado abaixo:
 
+```plaintext
 INSERIR 1234 "Paracetamol" 12.99 15 7 2023
 REMOVER 1234
 INSERIR 5678 "Ibuprofeno" 23.50 1 8 2024
